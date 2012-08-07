@@ -1,4 +1,4 @@
-HEEUT (Hadoop Ecosystem Example Unit Tests)
+HEEUT
 =====
 
 ## About
